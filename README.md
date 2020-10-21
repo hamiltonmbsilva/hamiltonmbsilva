@@ -8,7 +8,7 @@
 
 ![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=hamiltonmbsilva&show_icons=true)
 
-[![Linkedin: Yuri Duque](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-da-silva-26526648/)](https://www.linkedin.com/in/hamilton-da-silva-26526648/)
+[![Linkedin: Hamilton da Silva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-da-silva-26526648/)](https://www.linkedin.com/in/hamilton-da-silva-26526648/)
 
 ## ⚡ Technologies
 
@@ -30,7 +30,6 @@ These are some of the technologies and tools that I work with:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
