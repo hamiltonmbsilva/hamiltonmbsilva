@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I’m Hamilton da Silva
-- 🔭 I’m currently working on junior developer at the e-auditoria
+- 🔭 I’m currently working on developer at the e-auditoria
 - 🌱 I’m currently learning docker with .net core
 - 📫 How to reach me: hamiltonmb.silva@gmail.com
 
